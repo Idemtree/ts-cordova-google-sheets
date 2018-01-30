@@ -1,0 +1,23 @@
+{
+  "name": "@cordova-plugin/google-sheets",
+  "version": "0.0.1",
+  "description": "A typescript wrapper for cordova-plugin-google-sheets.",
+  "module": "index.js",
+  "typings": "index.d.ts",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.6.0 || >=4.0.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "keywords": [
+    "Google",
+    "Sheets",
+    "Cordova"
+  ],
+  "author": "Kenny Valdivia",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sumaqideas/ts-cordova-google-sheets.git"
+  }
+}
